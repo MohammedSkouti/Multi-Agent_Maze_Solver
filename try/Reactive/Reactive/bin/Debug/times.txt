@@ -1,0 +1,16 @@
+noExplorers 20 
+maze 27, 27 
+elapsed time 367095 
+
+noExplorers 10 
+maze 27, 27 
+elapsed time 244900 
+
+noExplorers 10 
+maze 27, 27 
+elapsed time 247337 
+
+noExplorers 1 
+maze 27, 27 
+elapsed time 151632 
+
